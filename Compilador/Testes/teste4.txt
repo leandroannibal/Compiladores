@@ -1,0 +1,11 @@
+{Teste sem procedimentos e variáveis - deve compilar}
+programa test1;
+
+
+inicio
+   se b > (c+ a*a)
+    entao escreva(b)
+    senao escreva(c)
+fim.
+
+{fim}   
